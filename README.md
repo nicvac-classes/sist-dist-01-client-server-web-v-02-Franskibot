@@ -38,11 +38,11 @@ Un sistema informatico distribuito realizza almeno una di queste situazioni:
 
 | Caratteristica                | Sì/No |
 |-------------------------------|-------|
-| Più componenti autonomi       |       |
-| Componenti su macchine diverse|       |
-| Comunicazione tramite rete    |       |
-| Appare come sistema unico     |       |
-| Coordinazione delle attività  |       |
+| Più componenti autonomi       |  Si   |
+| Componenti su macchine diverse|  Si   |
+| Comunicazione tramite rete    |  Si   |
+| Appare come sistema unico     |  Si   |
+| Coordinazione delle attività  |  Si   |
 
 Esistono diversi tipi di sistemi distribuiti.
 Il primo che esaminiamo è il sistema **Client Server su Web**.
